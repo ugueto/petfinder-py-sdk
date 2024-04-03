@@ -1,0 +1,2 @@
+class Petfinder:
+    pass

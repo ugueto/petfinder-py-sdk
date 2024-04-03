@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "petfinder-py-sdk"
+description = "Python API client library for Petfinder.com API"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31"]
+readme = "README.md"
+keywords = ["petfinder", "api", "client"]
+license = {file = LICENSE}
+classifiers = [
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: BSD-3-Clause License",
+]
+
+authors = [
+    {name = "Juan Diego Ugueto", email = "jduguetom@gmail.com"}
+]
+
+[project.urls]
+Repository = "https://github.com/ugueto/petfinder-py-sdk"
+API documentation = "https://www.petfinder.com/developers/v2/docs/"
+Issues = "https://github.com/ugueto/petfinder-py-sdk/issues"

@@ -1,11 +1,14 @@
 # petfinder-py-sdk
-Petfinder.com API client library for Python
+Petfinder.com API client library for Python.
 
 ## Installation
+> Requires Python 3.10 or higher.
+
+```sh
+$ pip install petfinder-py-sdk
+```
 
 ## Usage
 
 ## Documentation
 [API docs](https://www.petfinder.com/developers/v2/docs/)
-
-For more information about Petfinder's Python SDK see the docs folder in this repo.
