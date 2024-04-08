@@ -26,5 +26,5 @@ authors = [
 
 [project.urls]
 Repository = "https://github.com/ugueto/petfinder-py-sdk"
-API documentation = "https://www.petfinder.com/developers/v2/docs/"
+Docs = "https://www.petfinder.com/developers/v2/docs/"
 Issues = "https://github.com/ugueto/petfinder-py-sdk/issues"
